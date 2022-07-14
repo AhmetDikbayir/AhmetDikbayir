@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AhmetDikbayir
-- 👀 I’m interested in Data Science and MachineLesrning
+- 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Some Data Analysist
+- 💞️ I’m looking to collaborate on Some Data Scientist
 - 📫 You can reach me on gmail. ahmet.dikbayir@gmail.com is my e-mail address
 
 <!---
