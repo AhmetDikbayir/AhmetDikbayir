@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetdikbayir&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetdikbayir" /> </p>
 
-- 🔭 I’m currently working on [Library Backend Project](https://github.com/AhmetDikbayir/LibraryAutomation)
+- 🔭 I’m currently working on [Rent A Car Project](https://github.com/AhmetDikbayir/CarRentalProject)
 
-- 🌱 I’m currently learning **Java, React**
+- 🌱 I’m currently learning **Java, React**, NestJS
 
 - 👨‍💻 All of my projects are available at [https://ahmet-dikbayir.netlify.app](https://ahmet-dikbayir.netlify.app)
 
