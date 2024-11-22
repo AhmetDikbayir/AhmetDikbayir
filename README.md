@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmet Dikbayir</h1>
-<h3 align="center">A passionate Java developer</h3>
+<h3 align="center">A passionate Developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetdikbayir&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetdikbayir" /> </p>
 
-- 🔭 I’m currently working on [Rent A Car Project](https://github.com/AhmetDikbayir/CarRentalProject)
-
-- 🌱 I’m currently learning **Java, React**, NestJS
+- 🌱 I’m currently learning **Java, React, React Native**, NestJS
 
 - 👨‍💻 All of my projects are available at [https://ahmet-dikbayir.netlify.app](https://ahmet-dikbayir.netlify.app)
 
